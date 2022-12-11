@@ -1,0 +1,42 @@
+br {
+    margin-bottom: 0%;
+    margin-top: 0;
+}
+
+svg {
+    margin-left: 20%;
+    margin-top: 0%;
+    background-color: antiquewhite;
+}
+
+/* select {
+    margin-left: 40%;
+} */
+.title {
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    color: maroon;
+    font-weight: bolder;
+}
+
+label {
+    margin-top: 0%;
+    margin-left: 10%;
+}
+
+.y-label {
+    transform: translateX(-50px) translateY(-50px) rotate(-90deg);
+    font-weight: bold;
+}
+
+.x-label {
+    font-weight: bold;
+}
+
+p {
+    color: rgb(106, 54, 17);
+}
+
+.chart {
+    margin-top: 4%;
+}
